@@ -23,14 +23,14 @@ In practical terms, I work on AWS data platforms and cloud architectures, with a
 I hold three AWS Associate certifications across architecture, data and machine learning.
 
 <p>
-  <a href="https://www.credly.com/users/anthony-clavery/badges/credly">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  <a href="https://www.credly.com/badges/bd113995-f675-46f8-aa41-6c7240844da0/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="88" alt="AWS Certified Solutions Architect Associate" />
   </a>
-  <a href="https://www.credly.com/users/anthony-clavery/badges/credly">
-    <img src="https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Data Engineer Associate" />
+  <a href="https://www.credly.com/badges/55bf3c12-0467-486e-8c66-02df07f9175d/public_url">
+    <img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" height="88" alt="AWS Certified Data Engineer Associate" />
   </a>
-  <a href="https://www.credly.com/users/anthony-clavery/badges/credly">
-    <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer Associate" />
+  <a href="https://www.credly.com/badges/44806a1d-c4a3-4efd-8bfa-5477749b7ee4/public_url">
+    <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="88" alt="AWS Certified Machine Learning Engineer Associate" />
   </a>
 </p>
 
